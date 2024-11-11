@@ -1,0 +1,35 @@
+body{ height: 745px;
+
+}
+
+table{
+    height: 100%;
+    width: 100%;
+}
+
+td{
+    width: 5%;
+    height: 8.3%;
+}
+
+.hidrogenio{ background-color: green;}
+.helio{ background-color: rgb(21, 129, 231);}
+.laranja{ background-color: rgb(223, 147, 18);}
+.amarelo{ background-color: yellow;}
+.vermelho{ background-color: red;}
+.verdeclaro{ background-color: rgb(141, 228, 139);}
+.azulclaro{ background-color: aqua;}
+.cinza{ background-color: rgba(86, 81, 81, 0.739);}
+.verdeagua{ background-color: rgb(57, 214, 175);}
+.roxo{ background-color: blueviolet;}
+.rosa{ background-color: rgb(212, 11, 135);}
+.Nãometais{ background-color: rgb(141, 228, 139);}
+.gasesnobres{ background-color: rgb(21, 129, 231);}
+.alcalinos{ background-color: rgb(223, 147, 18);}
+.terrosos{ background-color: yellow;}
+.semimetais{ background-color: rgb(57, 214, 175);}
+.halogenios{ background-color: aqua;}
+.outros{ background-color: rgba(86, 81, 81, 0.739);}
+.trans{ background-color: red;}
+.lan{ background-color: blueviolet;}
+.acti{ background-color: rgb(212, 11, 135);}
